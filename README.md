@@ -19,4 +19,5 @@ _Contruido con_ [React.JS](https://github.com/facebook/react)
 ## Autores ✒️
 
 [devChannel](https://www.youtube.com/c/devChannelbyAkashIngole) - _Gracias por sus tutoriales y su aporte a la comunidad_
+
 [MaDe](https://github.com/mariodelg) - **Mario Delgado** - _Mi persona que realizo el ejercicio_
