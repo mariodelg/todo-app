@@ -1,0 +1,13 @@
+:root{
+    /* Esta paleta la tome de coolors.co */
+    --color-one : #06D6A0;
+    --color-two : #FFD166;
+    --color-three : #118AB2;
+    --color-four : #EF476F;
+    --color-five : #073B4C;
+}
+
+*{
+    box-sizing: border-box;
+    font-family: 'Cabin', sans-serif;
+}

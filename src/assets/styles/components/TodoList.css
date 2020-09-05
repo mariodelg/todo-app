@@ -1,0 +1,49 @@
+.list-box {
+    max-height: 210px;
+    overflow-y: auto;
+}
+
+.list-item{
+    display: flex;
+    justify-content: space-between;
+    background: lightgrey;
+    font-size: 18px;
+    font-weight: 600;
+    color: black;
+    padding: 15px 15px 15px 10px;
+    border-bottom: 1px solid white;
+    border-top: 1px solid white;
+}
+
+.list-container {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.list-item__icon {
+    display: flex;
+    justify-content: space-between;
+    width: 50px;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.item__complete {
+    text-decoration: line-through;
+    color: var(--color-one);
+}
+
+.red {
+    color: var(--color-four)
+}
+
+.blue {
+    color: var(--color-three)
+}
+
+.green {
+    color: var(--color-one)
+}
